@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 # arturblch.github.io
 ## Welcome to GitHub Pages
 

@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 
-title: [Моя диссертации]
-description: [Сайт по моей научной-исследовательской работе]
+title: Моя диссертации
+description: Сайт по моей научной-исследовательской работе
+teaser: /assets/images/teaser.png

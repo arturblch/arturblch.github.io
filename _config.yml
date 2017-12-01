@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 
 title: Моя диссертация
 description: Сайт по моей научной-исследовательской работе
+baseurl: ""
